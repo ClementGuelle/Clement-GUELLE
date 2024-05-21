@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![wakatime](https://wakatime.com/badge/user/aabe6431-45a3-429c-96a5-18e83de852f0.svg)](https://wakatime.com/@aabe6431-45a3-429c-96a5-18e83de852f0)
 <!--
 **betonfixe/betonfixe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
